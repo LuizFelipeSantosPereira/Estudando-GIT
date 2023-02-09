@@ -3,5 +3,5 @@
 <p>testando git</p>
 
 ```
-npm install react
+node app.js
 ```
