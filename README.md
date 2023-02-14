@@ -1,8 +1,5 @@
-# README
+# Estudando git
 
-<p>testando git</p>
+## Este é um repositório onde, exclusivamente, utilizo para treinar e relembrar comandos GIT
 
-```
-node app.js
-```
 :)
